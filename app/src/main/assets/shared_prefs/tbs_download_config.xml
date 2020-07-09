@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="tbs_download_interrupt_time" value="1594265782869" />
+    <string name="app_metadata">27000634</string>
+    <long name="request_fail" value="1594265728246" />
+    <boolean name="is_oversea" value="false" />
+    <int name="tbs_downloaddecouplecore" value="0" />
+    <int name="app_versioncode" value="1460" />
+    <string name="app_versionname">7.0.6</string>
+    <int name="tbs_download_interrupt_code" value="-104" />
+    <string name="device_cpuabi">i686</string>
+</map>

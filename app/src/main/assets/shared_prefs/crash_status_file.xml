@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="channel" value="0" />
+    <string name="crashlist"></string>
+    <int name="version" value="654313012" />
+</map>

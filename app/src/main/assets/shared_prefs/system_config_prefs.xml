@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="set_service" value="true" />
+    <boolean name="first_launch_weixin" value="false" />
+    <string name="builtin_short_ips">10,163.177.81.139,80,szshort.weixin.qq.com|18,183.3.224.141,80,szshort.weixin.qq.com|6,120.241.21.113,80,szshort.weixin.qq.com|10,163.177.81.139,80,szextshort.weixin.qq.com|18,183.3.224.141,80,szextshort.weixin.qq.com|6,120.241.21.113,80,szextshort.weixin.qq.com|6,121.51.130.84,80,szshort.pay.weixin.qq.com|6,121.51.140.143,80,szshort.pay.weixin.qq.com|10,163.177.81.143,80,szshort.pay.weixin.qq.com|10,58.251.80.105,80,szshort.pay.weixin.qq.com|18,183.3.224.143,80,szshort.pay.weixin.qq.com|18,183.3.234.104,80,szshort.pay.weixin.qq.com|6,127.0.0.1,80,localhost|</string>
+    <int name="default_uin" value="-1724772149" />
+    <int name="launch_last_status" value="2" />
+    <long name="recomended_update_ignore" value="1594265776" />
+    <string name="support.weixin.qq.com">szsupport.weixin.qq.com</string>
+    <boolean name="settings_fully_exit" value="false" />
+</map>

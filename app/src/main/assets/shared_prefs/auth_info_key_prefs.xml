@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="key_auth_info_prefs_created" value="true" />
+    <int name="key_auth_update_version" value="654313012" />
+    <int name="_auth_uin" value="-1724772149" />
+    <string name="_auth_key">0a240820122031e0417e8d5976e851757985597cc4fbac6ca9b47442250b6a2e704c7dd1a98212990108930112930108924e128801cbd8d1cc54d209ddf34c1afe3db87fb826673f2f782d7d69cb7721b400eaad250e8b83b3562dfb95cf7a7a4a054111f99dd17f295bdd16ecd06f7becaefcbdfa9f4930f9de879de85823e332c742b2c7ac3dc97696a6ba45026638c54582306cd7c066c3ae9c1e1aadddc7183ae6333c1e070fe6c0b8e4fec0c6798571de837685aa1d13ee1a2f0218b3f19835</string>
+    <string name="server_id">500218020000000074bae2abc2b700</string>
+</map>

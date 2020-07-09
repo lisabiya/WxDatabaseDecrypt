@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="app_instance_id">6d16f63b9ceb597256632c62ecd3e1ef</string>
+    <string name="health_monitor:value">2WC12451:Service invalid</string>
+    <string name="gmp_app_id">1:546136561403:android:6de60f7798ac337c</string>
+    <long name="time_active" value="3519" />
+    <boolean name="has_been_opened" value="true" />
+    <long name="first_open_time" value="1594265698544" />
+    <long name="health_monitor:count" value="1" />
+    <boolean name="deferred_analytics_collection" value="true" />
+    <long name="health_monitor:start" value="1594265698819" />
+    <long name="last_pause_time" value="1594266235984" />
+    <long name="last_upload" value="1594265698646" />
+    <boolean name="start_new_session" value="false" />
+</map>

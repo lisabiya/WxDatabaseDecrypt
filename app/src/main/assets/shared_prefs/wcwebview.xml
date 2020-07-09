@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="ABTestWebViewtools">WV_KIND_NONE</string>
+    <string name="HardCodeWebViewtools">WV_KIND_NONE</string>
+    <string name="ABTestWebViewappbrand">WV_KIND_NONE</string>
+    <string name="HardCodeWebViewappbrand">WV_KIND_NONE</string>
+    <string name="ABTestWebViewsupport">WV_KIND_NONE</string>
+    <string name="ABTestWebViewtoolsmp">WV_KIND_NONE</string>
+    <string name="ABTestWebViewmm">WV_KIND_NONE</string>
+    <string name="HardCodeWebViewtoolsmp">WV_KIND_NONE</string>
+    <string name="HardCodeWebViewmm">WV_KIND_NONE</string>
+    <string name="HardCodeWebViewsupport">WV_KIND_NONE</string>
+</map>

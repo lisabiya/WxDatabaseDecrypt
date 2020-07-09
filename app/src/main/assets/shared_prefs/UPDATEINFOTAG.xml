@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="bTryUseSharedCore" value="false" />
+    <int name="cStrSpKeyConfigPeriod" value="-1" />
+    <boolean name="bCanUseCellular" value="false" />
+    <boolean name="bUseCdn" value="false" />
+    <int name="nApkVer" value="0" />
+    <long name="LAST_TRY_CLEAR_APK_TIME" value="1594265727626" />
+    <boolean name="bIsPatchUpdate" value="false" />
+    <long name="nLastFetchConfigTime" value="1594265728024" />
+    <int name="nTryCnt" value="0" />
+    <long name="nTimeToUpdate" value="0" />
+    <int name="nTryUseSharedCoreCount" value="0" />
+</map>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <float name="key_sync_session" value="0.44428068" />
+    <string name="last_login_nick_name">守仁</string>
+    <string name="login_weixin_username">wxid_ip4bohdhheqp22</string>
+    <string name="App Restrictions">AAAAAA==
+    </string>
+    <string name="reg_last_exit_ui">L200_100</string>
+    <string name="last_login_use_voice">32768</string>
+    <string name="last_login_uin">2570195147</string>
+    <boolean name="dynamic_bg_will_crash" value="false" />
+    <long name="__MID_LAST_CHECK_TIME__" value="1594265779846" />
+    <string name="__MTA_DEVICE_INFO__">xjgD6zAYj0803hKG1ZxB4HCbIJR+4Hm8SnAJpFaX2PpieUFmje7X17Q0GDD7G3QJQUN0x+dWSUxtFndC+lvQYQhcy/M/45SUULOgQial4upx9a9BJoYzXEVl8XMfQRF/IAZox+SCzb5cPlo5w0qFZWqjO07u</string>
+    <boolean name="dynamic_bg_init_crash" value="false" />
+    <string name="last_bind_info">4</string>
+    <boolean name="Main_ShortCut" value="true" />
+    <string name="login_user_name">+8618751903531</string>
+    <int name="dynamic_bg_init_start_point_count" value="0" />
+    <long name="check_trim_time" value="1594265766" />
+    <string name="__MTA_DEVICE_INFO_CHECK_ENTITY__">{&quot;ts&quot;:1594265779848,&quot;times&quot;:0,&quot;mfreq&quot;:100,&quot;mdays&quot;:3}</string>
+    <boolean name="login_upload_contacts_already_displayed" value="true" />
+    <string name="last_login_bind_mobile">18751903531</string>
+    <boolean name="isLogin" value="true" />
+    <boolean name="screenResolution_isModifyDensity" value="true" />
+    <string name="last_avatar_path">/data/data/com.tencent.mm/MicroMsg/last_avatar_dir/user_ee9b2ec44fcf973bed49df7d5d283edc.png</string>
+</map>

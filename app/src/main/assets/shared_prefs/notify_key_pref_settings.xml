@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="special_scene_enable" value="0" />
+    <int name="notification.status.webonline.push.open" value="32768" />
+    <boolean name="keepaliveserviceswitch" value="false" />
+    <int name="notification.user.state" value="0" />
+</map>

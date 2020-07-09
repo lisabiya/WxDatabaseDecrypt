@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:background="@drawable/shape_round_corner_blue"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvNickName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:enabled="true"
+        android:focusable="true"
+        android:longClickable="true"
+        android:textColor="@android:color/white"
+        android:textIsSelectable="true" />
+
+    <TextView
+        android:id="@+id/tvContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:enabled="true"
+        android:focusable="true"
+        android:longClickable="true"
+        android:textColor="@android:color/white"
+        android:textIsSelectable="true" />
+</LinearLayout>

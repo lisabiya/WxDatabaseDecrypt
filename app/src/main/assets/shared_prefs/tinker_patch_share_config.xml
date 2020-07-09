@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="tinker_node"></string>
+    <int name="check_tinker_update_interval" value="12" />
+    <string name="tinker_base_id">tinker_id_db0bfcb1e67f0abcf260ec5a35b52f148de0ff71</string>
+</map>

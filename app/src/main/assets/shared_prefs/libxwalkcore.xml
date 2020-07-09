@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="XWALK_CORE_EXTRACTED_DIR">/data/data/com.tencent.mm/app_xwalk_112/extracted_xwalkcore</string>
+    <int name="sNDeviceRd" value="3095029" />
+    <string name="REPORT_APK_VER_TIME_WV_KIND_SYS">20200709</string>
+    <int name="GRAY_VALUE" value="1827" />
+    <int name="IP_TYPE" value="0" />
+</map>

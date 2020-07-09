@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="wakeup_alarm_last_cnt" value="1" />
+    <long name="wakeup_alarm_last_tick" value="1594265705723" />
+    <boolean name="is_in_notify_mode" value="false" />
+</map>

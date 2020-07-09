@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="com.tencent.preference.notification.key.unread.msg" value="0" />
+    <boolean name="is_in_notify_mode" value="false" />
+    <string name="com.tencent.preference.notification.key.unread.talker"></string>
+</map>

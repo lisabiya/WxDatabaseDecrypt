@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="tbs_download_finished" value="true" />
+    <string name="tbs_download">1</string>
+    <long name="last_check_ts" value="1594265782211" />
+    <long name="last_check_xwalk" value="1594265722038" />
+</map>
